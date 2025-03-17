@@ -1,0 +1,18 @@
+.logincard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 15px;
+  background: rgb(255, 247, 231);
+}
+body {
+  justify-content: center;
+}
+.logincard input {
+  border-radius: 15px;
+  padding: 10px;
+  margin: 5px;
+}
